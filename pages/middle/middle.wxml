@@ -1,0 +1,6 @@
+<!--pages/middle/middle.wxml-->
+<text>pages/middle/middle.wxml</text>
+
+<!-- 底部导航栏 -->
+	<tabbar tabbar="{{ tabbar }}"></tabbar>
+	<!-- END -->

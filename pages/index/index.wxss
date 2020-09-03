@@ -1,0 +1,109 @@
+/* pages/index/index.wxss */
+
+/* banner */
+.banner{
+	width: 750rpx;
+	height: 722rpx;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+/* END */
+
+/* 宫格导航 */
+.navGird{
+	padding: 0 41rpx;
+}
+/* END */
+
+/* 轮播滑块 */
+
+/* END */
+
+/* 懒加载内容模块 */
+.box{
+	margin-left: 32rpx;
+	margin-top: 20rpx;
+	width: 686rpx;
+	/* line-height: 20rpx; */
+	/* border-bottom: 1px solid #CCCCCC; */
+	margin-bottom: 20rpx;
+	/* background-color: red	; */
+}
+
+.box .content{
+	width: 100%;
+	margin-top: 30rpx;
+}
+
+.top{
+	height: 62rpx;
+	font-size: 28rpx;
+}
+
+.img{
+	margin-top: 30rpx;
+}
+
+.footer{
+	margin-top: 10rpx;
+	/* width: 648rpx; */
+	/* height: 25rpx; */
+	/* line-height: 25rpx; */
+	font-size: 20rpx;
+	color: #999999;
+}
+
+.footer .footer_item{
+	display: inline-block;
+	margin-right: 30rpx;
+}
+
+.footer .icon{
+	width: 22rpx;
+	height: 18rpx;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	vertical-align: middle;	
+	margin-right: 8rpx;
+}
+
+.footer .icon2{
+	width: 14rpx;
+	height: 14rpx;
+	margin-left: 337rpx;
+}
+
+.content_third{
+	margin-top: 30rpx;
+	margin-bottom: 30rpx;
+}
+
+.content_second{
+	margin-top: 30rpx;
+	margin-bottom: 30rpx;
+}
+
+.content_second .left_top{
+	font-size: 28rpx;
+}
+
+.content_second .left_bottom{
+	font-size: 20rpx;
+	color: #999999;
+}
+/* .title{
+	text-align: center;
+	font-size: 24rpx;
+	padding: 10rpx 10rpx;
+	height: 40rpx;
+	line-height: 50rpx;
+	color: #999999;
+}
+
+.active{
+	font-size: 32rpx;
+	color: #CC0000;
+	border-bottom: 2px solid #CC0000;
+	line-height: 40rpx;
+} */
+/* END */

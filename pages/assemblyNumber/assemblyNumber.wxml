@@ -1,0 +1,4 @@
+<!--pages/assemblyNumber/assemblyNumber.wxml-->
+<text>pages/assemblyNumber/assemblyNumber.wxml</text>
+
+ <tabbar tabbar="{{tabbar}}"></tabbar>
